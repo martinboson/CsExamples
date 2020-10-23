@@ -9,6 +9,7 @@ namespace C6_GetterAndSetters
             var person = new Person();
             person.AskForName();
             person.AskForDateOfBirth();
+            Console.WriteLine(person.Name);
         }
     }
 }

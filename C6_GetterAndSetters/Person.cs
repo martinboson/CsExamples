@@ -7,7 +7,7 @@ namespace C6_GetterAndSetters
     class Person
     {
 
-        public string Name { get; set; }
+        public string Name { get; private set; } = "";
         public int Age => CalculateAge();
         public string City { get; set; }
 

@@ -19,6 +19,10 @@ namespace C7_GettersAndSettersV2
 
             return _age;
             }
+            set
+            {
+
+            }
         }
         public string City { get; set; }
 
@@ -64,12 +68,8 @@ namespace C7_GettersAndSettersV2
                 }
             }
 
-            Console.WriteLine($"Cool, I am also {CalculateAge()}");
+            Console.WriteLine($"Cool, I am also {Age}");
         }
 
-        private int CalculateAge()
-        {
-            
-        }
     }
 }
