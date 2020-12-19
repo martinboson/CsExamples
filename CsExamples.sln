@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C6_GetterAndSetters", "C6_G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{C5644990-2ADE-40C8-B51D-99F9BEF1214D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{C2F9BC9A-B960-457E-8204-2621DDF09056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{C2F9BC9A-B960-457E-8204-2621DDF09056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C9_Lists", "C9_Lists\C9_Lists.csproj", "{D1BEF004-11F3-4176-AE5F-12B04967169C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C2F9BC9A-B960-457E-8204-2621DDF09056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F9BC9A-B960-457E-8204-2621DDF09056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F9BC9A-B960-457E-8204-2621DDF09056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BEF004-11F3-4176-AE5F-12B04967169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BEF004-11F3-4176-AE5F-12B04967169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BEF004-11F3-4176-AE5F-12B04967169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BEF004-11F3-4176-AE5F-12B04967169C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
